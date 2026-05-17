@@ -19,13 +19,13 @@ Ring adapter for Node.js
 To use the latest release, add the following to your `deps.edn` ([Clojure CLI](https://clojure.org/guides/deps_and_cli))
 
 ```clj
-com.lambdaisland/ring-node-adapter {:mvn/version "0.0.0"}
+com.lambdaisland/ring-node-adapter {:mvn/version "0.1.5"}
 ```
 
 or add the following to your `project.clj` ([Leiningen](https://leiningen.org/))
 
 ```clj
-[com.lambdaisland/ring-node-adapter "0.0.0"]
+[com.lambdaisland/ring-node-adapter "0.1.5"]
 ```
 <!-- /installation -->
 
