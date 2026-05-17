@@ -1,9 +1,7 @@
 # lambdaisland/ring-node-adapter
 
 <!-- badges -->
-<p align=center>
 [![cljdoc badge](https://cljdoc.org/badge/com.lambdaisland/ring-node-adapter)](https://cljdoc.org/d/com.lambdaisland/ring-node-adapter) [![Clojars Project](https://img.shields.io/clojars/v/com.lambdaisland/ring-node-adapter.svg)](https://clojars.org/com.lambdaisland/ring-node-adapter) ![](https://img.shields.io/clojars/dt/com.lambdaisland%2Fring-node-adapter?style=flat-square)
-</p>
 <!-- /badges -->
 
 Ring adapter for Node.js
