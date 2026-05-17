@@ -1,0 +1,7 @@
+{:deps {}
+ :builds
+ {:ring-node-adapter
+  {:target    :esm
+   :output-dir "out"
+   :js-options {:js-provider :import}
+   :modules {:ring-node-adapter {:exports {run_adapter lambdaisland.ring-node-adapter/run-adapter}}}}}}
